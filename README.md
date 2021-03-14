@@ -1,1 +1,3 @@
 # Inventory_Dashboard
+The Link to my Dashboard is below
+https://app.powerbi.com/view?r=eyJrIjoiODA1ZWRjYzktZTg2OS00YTE0LWFiZTUtY2IxNGNmYWM5ODI5IiwidCI6ImU1MWNkZWM5LTgxMWQtNDcxZC1iYmU2LWRkM2Q4ZDU0YzI4YiIsImMiOjN9&embedImagePlaceholder=true&pageName=ReportSection
